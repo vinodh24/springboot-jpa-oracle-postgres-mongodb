@@ -1,0 +1,8 @@
+oracle:
+  active:
+    ipaddress: XXX
+  database: XXXX
+  port: 1521
+  username: XXXX
+  password: XXXX
+ 

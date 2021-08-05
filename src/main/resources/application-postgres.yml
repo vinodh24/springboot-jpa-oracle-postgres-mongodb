@@ -1,0 +1,7 @@
+postgres:
+  active:
+    ipaddress: XXXX 
+  database: XXXX
+  port: 5432
+  username: XXX
+  password: XXX
